@@ -1,13 +1,13 @@
 {
-  "title": "Vilka EU-länder erbjuder de bästa sysselsättningsmöjligheterna?",
-  "subtitle": "Framtida sysselsättningstillväxt i dessa länder 2022-2035 beräknas till 5,6 %.",
+  "title": "Var är deltagandet i bröstcancerscreening högst?",
+  "subtitle": "Andel av den berättigade befolkningen som deltar i bröstcancerscreening, 2022 eller närmaste tillgängliga år.",
   "textNoteDescription": "Notera",
-  "textNote": "sdchdc",
   "textSourceDescription": "Källa",
-  "textSource": "sdcshdc",
-  "linkDataAccessDescription": "Få åtkomst till data",
-  "extraInfo_DE": "Tyskland accelererar utbyggnaden av förnybar energi, siktar på 80 % ren kraft till 2030",
-  "extraInfo_FR": "Det franska parlamentet godkänner lagförslaget om stora invandringsreformer under rikstäckande protester",
+  "textSource": "Europeiska registret över ojämlikheter i cancer (2025)",
+  "linkDataAccessDescription": "Åtkomst till data",
+  "extraInfo_BG": "Undersökningsdata från 2019",
+  "extraInfo_EL": "Undersökningsdata från 2019",
+  "extraInfo_RO": "Undersökningsdata från 2019",
   "legend1": "Inga data tillgängliga",
   "tooltipExtraInfoLabel": "Klicka här"
 }
