@@ -1,13 +1,13 @@
 {
-  "title": "Kurios ES šalys siūlo geriausias įsidarbinimo perspektyvas?",
-  "subtitle": "Skaičiuojama, kad būsimas užimtumo augimas šiose šalyse 2022–2035 m. sieks 5,6 proc.",
+  "title": "Kur didžiausias dalyvavimas krūties vėžio patikros atrankoje?",
+  "subtitle": "Tinkamų gyventojų, dalyvaujančių krūties vėžio atrankinėje patikroje, dalis 2022 m. arba artimiausiais metais, kai yra prieinami duomenys.",
   "textNoteDescription": "Pastaba",
-  "textNote": "sdchdc",
   "textSourceDescription": "Šaltinis",
-  "textSource": "sdcshdc",
-  "linkDataAccessDescription": "Pasiekite duomenis",
-  "extraInfo_DE": "Vokietija paspartina atsinaujinančios energijos diegimą ir siekia 80 % švarios energijos iki 2030 m.",
-  "extraInfo_FR": "Prancūzijos parlamentas, kilus protestams visoje šalyje, patvirtino pagrindinį imigracijos reformos įstatymo projektą",
+  "textSource": "Europos vėžio nelygybės registras (2025 m.)",
+  "linkDataAccessDescription": "Prieiga prie duomenų",
+  "extraInfo_BG": "2019 m. apklausos duomenys",
+  "extraInfo_EL": "2019 m. apklausos duomenys",
+  "extraInfo_RO": "2019 m. apklausos duomenys",
   "legend1": "Nėra duomenų",
-  "tooltipExtraInfoLabel": "Spauskite čia"
+  "tooltipExtraInfoLabel": "Spustelėkite čia"
 }
