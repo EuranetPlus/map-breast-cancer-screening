@@ -1,13 +1,13 @@
 {
-  "title": "Care țări UE oferă cele mai bune perspective de angajare?",
-  "subtitle": "Creșterea viitoare a ocupării forței de muncă în aceste țări în perioada 2022-2035 este estimată la 5,6%.",
+  "title": "Unde este cea mai mare participare la screeningul pentru cancerul de sân?",
+  "subtitle": "Proporția populației eligibile care participă la screening-ul pentru cancerul de sân, 2022 sau cel mai apropiat an disponibil.",
   "textNoteDescription": "Nota",
-  "textNote": "sdchdc",
   "textSourceDescription": "Sursă",
-  "textSource": "sdcshdc",
+  "textSource": "Registrul European al Inegalităților în Cancer (2025)",
   "linkDataAccessDescription": "Accesați datele",
-  "extraInfo_DE": "Germania accelerează lansarea energiei regenerabile, țintește 80% energie curată până în 2030",
-  "extraInfo_FR": "Parlamentul francez aprobă un proiect de lege major de reformă a imigrației pe fondul protestelor la nivel național",
-  "legend1": "Nu există date disponibile",
+  "extraInfo_BG": "Datele sondajului din 2019",
+  "extraInfo_EL": "Datele sondajului din 2019",
+  "extraInfo_RO": "Datele sondajului din 2019",
+  "legend1": "Nu sunt disponibile date",
   "tooltipExtraInfoLabel": "Click aici"
 }
