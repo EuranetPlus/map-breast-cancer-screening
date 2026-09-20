@@ -1,13 +1,13 @@
 {
-  "title": "Welche EU-Länder bieten die besten Beschäftigungsaussichten?",
-  "subtitle": "Das künftige Beschäftigungswachstum in diesen Ländern im Zeitraum 2022–2035 wird auf 5,6 % geschätzt.",
+  "title": "Wo ist die Teilnahme an Brustkrebs-Screenings am höchsten?",
+  "subtitle": "Anteil der berechtigten Bevölkerung, der am Brustkrebs-Screening teilnimmt, 2022 oder nächstmögliches Jahr.",
   "textNoteDescription": "Notiz",
-  "textNote": "sdchdc",
   "textSourceDescription": "Quelle",
-  "textSource": "Abonnieren",
-  "linkDataAccessDescription": "Zugriff auf die Daten",
-  "extraInfo_DE": "Deutschland beschleunigt Ausbau erneuerbarer Energien und strebt bis 2030 80 % sauberen Stromanteil an",
-  "extraInfo_FR": "Französisches Parlament verabschiedet inmitten landesweiter Proteste ein umfassendes Gesetz zur Einwanderungsreform",
+  "textSource": "Europäisches Krebsungleichheitsregister (2025)",
+  "linkDataAccessDescription": "Greifen Sie auf die Daten zu.",
+  "extraInfo_BG": "Umfragedaten von 2019",
+  "extraInfo_EL": "Umfragedaten von 2019",
+  "extraInfo_RO": "Umfragedaten von 2019",
   "legend1": "Keine Daten verfügbar",
   "tooltipExtraInfoLabel": "klicken Sie hier"
 }
