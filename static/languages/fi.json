@@ -1,13 +1,13 @@
 {
-  "title": "Mitkä EU-maat tarjoavat parhaat työllisyysnäkymät?",
-  "subtitle": "Näissä maissa tulevaisuudessa työllisyyden kasvun arvioidaan olevan 5,6 % vuosina 2022-2035.",
-  "textNoteDescription": "Huom",
-  "textNote": "sdchdc",
+  "title": "Missä rintasyöpäseulontaan osallistuminen on yleisintä?",
+  "subtitle": "Rintasyövän seulontaan osallistuneen väestön osuus, 2022 tai lähin saatavilla oleva vuosi.",
+  "textNoteDescription": "Huomautus",
   "textSourceDescription": "Lähde",
-  "textSource": "sdcshdc",
+  "textSource": "Euroopan syöpäepätasa-arvorekisteri (2025)",
   "linkDataAccessDescription": "Käytä tietoja",
-  "extraInfo_DE": "Saksa nopeuttaa uusiutuvan energian käyttöönottoa ja tavoittelee 80 % puhdasta sähköä vuoteen 2030 mennessä",
-  "extraInfo_FR": "Ranskan parlamentti hyväksyi suuren maahanmuuttouudistuksen valtakunnallisten mielenosoitusten keskellä",
-  "legend1": "Tietoja ei ole saatavilla",
+  "extraInfo_BG": "Vuoden 2019 kyselytiedot",
+  "extraInfo_EL": "Vuoden 2019 kyselytiedot",
+  "extraInfo_RO": "Vuoden 2019 kyselytiedot",
+  "legend1": "Ei tietoja saatavilla",
   "tooltipExtraInfoLabel": "Klikkaa tästä"
 }
