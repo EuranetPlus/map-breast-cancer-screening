@@ -1,13 +1,13 @@
 {
-  "title": "Ktoré krajiny EÚ ponúkajú najlepšie vyhliadky na zamestnanie?",
-  "subtitle": "Budúci rast zamestnanosti v týchto krajinách v rokoch 2022-2035 sa odhaduje na 5,6 %.",
+  "title": "Kde je účasť na skríningu rakoviny prsníka najvyššia?",
+  "subtitle": "Podiel oprávnenej populácie zúčastňujúcej sa skríningu rakoviny prsníka, 2022 alebo najbližší dostupný rok.",
   "textNoteDescription": "Poznámka",
-  "textNote": "sdchdc",
   "textSourceDescription": "Zdroj",
-  "textSource": "sdcshdc",
+  "textSource": "Európsky register nerovností v oblasti rakoviny (2025)",
   "linkDataAccessDescription": "Prístup k údajom",
-  "extraInfo_DE": "Nemecko urýchľuje zavádzanie energie z obnoviteľných zdrojov a do roku 2030 má za cieľ dosiahnuť 80 % čistej energie",
-  "extraInfo_FR": "Francúzsky parlament počas celonárodných protestov schválil návrh zákona o veľkej imigračnej reforme",
+  "extraInfo_BG": "Údaje z prieskumu z roku 2019",
+  "extraInfo_EL": "Údaje z prieskumu z roku 2019",
+  "extraInfo_RO": "Údaje z prieskumu z roku 2019",
   "legend1": "Nie sú k dispozícii žiadne údaje",
   "tooltipExtraInfoLabel": "Kliknite sem"
 }
