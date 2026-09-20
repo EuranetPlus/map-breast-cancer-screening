@@ -1,13 +1,13 @@
 {
-  "title": "Welke EU-landen bieden de beste werkgelegenheidsvooruitzichten?",
-  "subtitle": "De toekomstige werkgelegenheidsgroei in deze landen in de periode 2022-2035 wordt geschat op 5,6%.",
+  "title": "Waar is de deelname aan borstkankerscreening het hoogst?",
+  "subtitle": "Aandeel van de in aanmerking komende bevolking dat deelneemt aan borstkankerscreening, 2022 of het dichtstbijzijnde beschikbare jaar.",
   "textNoteDescription": "Opmerking",
-  "textNote": "sdchdc",
   "textSourceDescription": "Bron",
-  "textSource": "sdcshdc",
+  "textSource": "Europees register voor kankerongelijkheden (2025)",
   "linkDataAccessDescription": "Toegang tot de gegevens",
-  "extraInfo_DE": "Duitsland versnelt uitrol van hernieuwbare energie, streeft naar 80% schone energie in 2030",
-  "extraInfo_FR": "Frans parlement keurt groot wetsvoorstel immigratiehervorming goed te midden van landelijke protesten",
+  "extraInfo_BG": "Enquêtegegevens uit 2019",
+  "extraInfo_EL": "Enquêtegegevens uit 2019",
+  "extraInfo_RO": "Enquêtegegevens uit 2019",
   "legend1": "Geen gegevens beschikbaar",
   "tooltipExtraInfoLabel": "Klik hier"
 }
