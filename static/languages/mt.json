@@ -1,13 +1,13 @@
 {
-  "title": "Fejn hija l-ogħla parteċipazzjoni fl-iskrinjar tal-kanċer tas-sider?",
-  "subtitle": "Sehem tal-popolazzjoni eliġibbli li qed tipparteċipa fi skrinjar għall-kanċer tas-sider, 2022 jew l-eqreb sena disponibbli.",
+  "title": "Fejn hija l-ogħla l-parteċipazzjoni fl-iskrinjar tal-kanċer tas-sider?",
+  "subtitle": "Bħala medja, 56 fil-mija tan-nisa fl-Unjoni Ewropea aċċettaw l-offerta ta’ skrinjar għall-kanċer tas-sider. Ir-rata kienet partikolarment għolja fil-pajjiżi Nordiċi u fis-Slovenja, fejn aktar minn 75 fil-mija tan-nisa eliġibbli għaddew minn skrinjar.",
   "textNoteDescription": "Nota",
   "textSourceDescription": "Sors",
   "textSource": "Reġistru Ewropew dwar l-Inugwaljanzi fil-Kanċer (2025)",
   "linkDataAccessDescription": "Aċċessa d-dejta",
+  "legend1": "L-ebda dejta disponibbli",
+  "tooltipExtraInfoLabel": "Ikklikkja hawn",
   "extraInfo_BG": "Dejta tal-istħarriġ tal-2019",
   "extraInfo_EL": "Dejta tal-istħarriġ tal-2019",
-  "extraInfo_RO": "Dejta tal-istħarriġ tal-2019",
-  "legend1": "L-ebda dejta disponibbli",
-  "tooltipExtraInfoLabel": "Ikklikkja hawn"
+  "extraInfo_RO": "Dejta tal-istħarriġ tal-2019"
 }

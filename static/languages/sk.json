@@ -1,13 +1,13 @@
 {
   "title": "Kde je účasť na skríningu rakoviny prsníka najvyššia?",
-  "subtitle": "Podiel oprávnenej populácie zúčastňujúcej sa skríningu rakoviny prsníka, 2022 alebo najbližší dostupný rok.",
+  "subtitle": "V priemere 56 percent žien v Európskej únii využilo ponuku skríningu rakoviny prsníka. Miera bola obzvlášť vysoká v severských krajinách a Slovinsku, kde skríning absolvovalo viac ako 75 percent oprávnených žien.",
   "textNoteDescription": "Poznámka",
   "textSourceDescription": "Zdroj",
   "textSource": "Európsky register nerovností v oblasti rakoviny (2025)",
   "linkDataAccessDescription": "Prístup k údajom",
+  "legend1": "Nie sú k dispozícii žiadne údaje",
+  "tooltipExtraInfoLabel": "Kliknite sem",
   "extraInfo_BG": "Údaje z prieskumu z roku 2019",
   "extraInfo_EL": "Údaje z prieskumu z roku 2019",
-  "extraInfo_RO": "Údaje z prieskumu z roku 2019",
-  "legend1": "Nie sú k dispozícii žiadne údaje",
-  "tooltipExtraInfoLabel": "Kliknite sem"
+  "extraInfo_RO": "Údaje z prieskumu z roku 2019"
 }

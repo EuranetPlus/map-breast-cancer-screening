@@ -1,13 +1,13 @@
 {
-  "title": "Kur didžiausias dalyvavimas krūties vėžio patikros atrankoje?",
-  "subtitle": "Tinkamų gyventojų, dalyvaujančių krūties vėžio atrankinėje patikroje, dalis 2022 m. arba artimiausiais metais, kai yra prieinami duomenys.",
+  "title": "Kur didžiausias dalyvavimas krūties vėžio atrankoje?",
+  "subtitle": "Vidutiniškai 56 proc. moterų Europos Sąjungoje pasinaudojo krūties vėžio patikros pasiūlymu. Šis rodiklis buvo ypač didelis Šiaurės šalyse ir Slovėnijoje, kur patikra buvo atlikta daugiau nei 75 proc. tinkamų moterų.",
   "textNoteDescription": "Pastaba",
   "textSourceDescription": "Šaltinis",
   "textSource": "Europos vėžio nelygybės registras (2025 m.)",
   "linkDataAccessDescription": "Prieiga prie duomenų",
+  "legend1": "Nėra duomenų",
+  "tooltipExtraInfoLabel": "Spustelėkite čia",
   "extraInfo_BG": "2019 m. apklausos duomenys",
   "extraInfo_EL": "2019 m. apklausos duomenys",
-  "extraInfo_RO": "2019 m. apklausos duomenys",
-  "legend1": "Nėra duomenų",
-  "tooltipExtraInfoLabel": "Spustelėkite čia"
+  "extraInfo_RO": "2019 m. apklausos duomenys"
 }

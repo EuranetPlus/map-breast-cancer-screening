@@ -1,13 +1,13 @@
 {
   "title": "Hvor er deltagelsen i brystkræftscreening størst?",
-  "subtitle": "Andel af den berettigede befolkning, der deltager i brystkræftscreening, 2022 eller nærmeste tilgængelige år.",
+  "subtitle": "I gennemsnit benyttede 56 procent af kvinderne i EU sig af tilbuddet om brystkræftscreening. Andelen var særligt høj i de nordiske lande og Slovenien, hvor over 75 procent af de berettigede kvinder gennemgik screening.",
   "textNoteDescription": "Note",
   "textSourceDescription": "Kilde",
   "textSource": "Det europæiske register over kræftuligheder (2025)",
   "linkDataAccessDescription": "Få adgang til dataene",
+  "legend1": "Ingen data tilgængelige",
+  "tooltipExtraInfoLabel": "Klik her",
   "extraInfo_BG": "Undersøgelsesdata fra 2019",
   "extraInfo_EL": "Undersøgelsesdata fra 2019",
-  "extraInfo_RO": "Undersøgelsesdata fra 2019",
-  "legend1": "Ingen data tilgængelige",
-  "tooltipExtraInfoLabel": "Klik her"
+  "extraInfo_RO": "Undersøgelsesdata fra 2019"
 }

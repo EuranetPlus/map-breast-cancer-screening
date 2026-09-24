@@ -1,13 +1,13 @@
 {
   "title": "Hol a legmagasabb a mellrákszűrésen való részvétel?",
-  "subtitle": "Az emlőrákszűrésen részt vevő jogosult populáció aránya, 2022 vagy a legközelebbi rendelkezésre álló év.",
+  "subtitle": "Az Európai Unióban átlagosan a nők 56 százaléka vette igénybe az emlőrákszűrés lehetőségét. Az arány különösen magas volt az északi országokban és Szlovéniában, ahol a jogosult nők több mint 75 százaléka vett részt szűrésen.",
   "textNoteDescription": "Jegyzet",
   "textSourceDescription": "Forrás",
   "textSource": "Európai Rákos Egyenlőtlenségek Nyilvántartása (2025)",
   "linkDataAccessDescription": "Hozzáférés az adatokhoz",
+  "legend1": "Nincsenek elérhető adatok",
+  "tooltipExtraInfoLabel": "Kattintson ide",
   "extraInfo_BG": "2019-es felmérési adatok",
   "extraInfo_EL": "2019-es felmérési adatok",
-  "extraInfo_RO": "2019-es felmérési adatok",
-  "legend1": "Nincsenek elérhető adatok",
-  "tooltipExtraInfoLabel": "Kattintson ide"
+  "extraInfo_RO": "2019-es felmérési adatok"
 }

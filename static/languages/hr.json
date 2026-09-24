@@ -1,13 +1,13 @@
 {
-  "title": "Gdje je najveća participacija na probiru za rak dojke?",
-  "subtitle": "Udio populacije koja sudjeluje u probiru za rak dojke, 2022. ili najbliža dostupna godina.",
+  "title": "Gdje je sudjelovanje u probiru za rak dojke najveće?",
+  "subtitle": "U prosjeku, 56 posto žena u Europskoj uniji iskoristilo je ponudu za probir raka dojke. Stopa je bila posebno visoka u nordijskim zemljama i Sloveniji, gdje je probiru podvrgnuto preko 75 posto žena koje ispunjavaju uvjete.",
   "textNoteDescription": "Bilješka",
   "textSourceDescription": "Izvor",
   "textSource": "Europski registar nejednakosti u području raka (2025.)",
   "linkDataAccessDescription": "Pristup podacima",
+  "legend1": "Nema dostupnih podataka",
+  "tooltipExtraInfoLabel": "Kliknite ovdje",
   "extraInfo_BG": "Podaci ankete iz 2019.",
   "extraInfo_EL": "Podaci ankete iz 2019.",
-  "extraInfo_RO": "Podaci ankete iz 2019.",
-  "legend1": "Nema dostupnih podataka",
-  "tooltipExtraInfoLabel": "Kliknite ovdje"
+  "extraInfo_RO": "Podaci ankete iz 2019."
 }

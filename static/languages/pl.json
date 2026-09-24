@@ -1,13 +1,13 @@
 {
-  "title": "Gdzie jest najwięcej badań przesiewowych w kierunku raka piersi?",
-  "subtitle": "Odsetek kwalifikującej się populacji uczestniczącej w badaniach przesiewowych w kierunku raka piersi w 2022 r. lub najbliższym dostępnym roku.",
+  "title": "Gdzie jest największy udział w badaniach przesiewowych w kierunku raka piersi?",
+  "subtitle": "Średnio 56% kobiet w Unii Europejskiej skorzystało z oferty badań przesiewowych w kierunku raka piersi. Odsetek ten był szczególnie wysoki w krajach nordyckich i Słowenii, gdzie ponad 75% kwalifikujących się kobiet poddało się badaniom przesiewowym.",
   "textNoteDescription": "Notatka",
   "textSourceDescription": "Źródło",
   "textSource": "Europejski Rejestr Nierówności w Zachorowaniach na Raka (2025)",
   "linkDataAccessDescription": "Dostęp do danych",
+  "legend1": "Brak dostępnych danych",
+  "tooltipExtraInfoLabel": "Kliknij tutaj",
   "extraInfo_BG": "Dane z badania z 2019 r.",
   "extraInfo_EL": "Dane z badania z 2019 r.",
-  "extraInfo_RO": "Dane z badania z 2019 r.",
-  "legend1": "Brak dostępnych danych",
-  "tooltipExtraInfoLabel": "Kliknij tutaj"
+  "extraInfo_RO": "Dane z badania z 2019 r."
 }

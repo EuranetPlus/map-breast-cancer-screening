@@ -1,13 +1,13 @@
 {
-  "title": "Onde se observa maior participação em exames de rastreio de câncer de mama?",
-  "subtitle": "Proporção da população elegível que participa do rastreio do câncer de mama, em 2022 ou no ano mais próximo disponível.",
+  "title": "Onde a participação em exames de rastreio de câncer de mama é maior?",
+  "subtitle": "Em média, 56% das mulheres na União Europeia aceitaram a oferta de rastreio do cancro da mama. A taxa foi particularmente elevada nos países nórdicos e na Eslovénia, onde mais de 75% das mulheres elegíveis realizaram o rastreio.",
   "textNoteDescription": "Observação",
   "textSourceDescription": "Fonte",
   "textSource": "Registro Europeu de Desigualdades no Câncer (2025)",
   "linkDataAccessDescription": "Acesse os dados",
+  "legend1": "Não há dados disponíveis.",
+  "tooltipExtraInfoLabel": "Clique aqui",
   "extraInfo_BG": "Dados da pesquisa de 2019",
   "extraInfo_EL": "Dados da pesquisa de 2019",
-  "extraInfo_RO": "Dados da pesquisa de 2019",
-  "legend1": "Não há dados disponíveis.",
-  "tooltipExtraInfoLabel": "Clique aqui"
+  "extraInfo_RO": "Dados da pesquisa de 2019"
 }

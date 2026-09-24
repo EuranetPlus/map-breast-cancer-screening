@@ -1,13 +1,13 @@
 {
   "title": "Dove si registra la maggiore partecipazione ai programmi di screening per il tumore al seno?",
-  "subtitle": "Percentuale della popolazione idonea che partecipa allo screening per il tumore al seno, 2022 o anno più vicino disponibile.",
+  "subtitle": "In media, il 56% delle donne nell'Unione Europea ha usufruito dello screening per il tumore al seno. La percentuale è risultata particolarmente elevata nei paesi nordici e in Slovenia, dove oltre il 75% delle donne idonee si è sottoposta allo screening.",
   "textNoteDescription": "Nota",
   "textSourceDescription": "Fonte",
   "textSource": "Registro europeo delle disuguaglianze in ambito oncologico (2025)",
   "linkDataAccessDescription": "Accedere ai dati",
+  "legend1": "Nessun dato disponibile",
+  "tooltipExtraInfoLabel": "clicca qui",
   "extraInfo_BG": "Dati del sondaggio del 2019",
   "extraInfo_EL": "Dati del sondaggio del 2019",
-  "extraInfo_RO": "Dati del sondaggio del 2019",
-  "legend1": "Nessun dato disponibile",
-  "tooltipExtraInfoLabel": "clicca qui"
+  "extraInfo_RO": "Dati del sondaggio del 2019"
 }

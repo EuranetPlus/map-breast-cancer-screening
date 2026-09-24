@@ -1,7 +1,8 @@
 import { writable } from 'svelte/store';
+
 export const mapConfig = writable({
-  "title": "Where is breast cancer screening participation highest?",
-  "subtitle": "Share of the eligible population participating in breast cancer screening, 2022 or nearest available year.",
+  "title": "Where is participation in breast cancer screening highest?",
+  "subtitle": " On average, 56 per cent of women in the European Union took up the offer of breast cancer screening. The rate was particularly high in the Nordic countries and Slovenia, where over 75 per cent of eligible women underwent screening. ",
   "colourSchemeClasses": 7,
   "data": "country,id,value,extraInfo,text_content,link_text,link_url_target,audio_url_1,audio_url_2,audio_url_3,image_url_source,image_url_target,video_url\nAustria,AT,0.41,false,,,,,,,,,\nBelgium,BE,0.57,false,,,,,,,,,\nBulgaria,BG,0.36,true,2019 survey data,,,,,,,,\nCroatia,HR,0.62,false,,,,,,,,,\nCyprus,CY,0.29,false,,,,,,,,,\nCzechia,CZ,0.60,false,,,,,,,,,\nDenmark,DK,0.83,false,,,,,,,,,\nEstonia,EE,0.63,false,,,,,,,,,\nFinland,FI,0.82,false,,,,,,,,,\nFrance,FR,0.48,false,,,,,,,,,\nGermany,DE,0.52,false,,,,,,,,,\nGreece,EL,0.66,true,2019 survey data,,,,,,,,\nHungary,HU,0.30,false,,,,,,,,,\nIreland,IE,0.70,false,,,,,,,,,\nItaly,IT,0.54,false,,,,,,,,,\nLatvia,LV,0.36,false,,,,,,,,,\nLithuania,LT,0.58,false,,,,,,,,,\nLuxembourg,LU,0.52,false,,,,,,,,,\nMalta,MT,0.44,false,,,,,,,,,\nNetherlands,NL,0.70,false,,,,,,,,,\nPoland,PL,0.37,false,,,,,,,,,\nPortugal,PT,0.50,false,,,,,,,,,\nRomania,RO,0.09,true,2019 survey data,,,,,,,,\nSlovakia,SK,0.29,false,,,,,,,,,\nSlovenia,SI,0.77,false,,,,,,,,,\nSpain,ES,0.74,false,,,,,,,,,\nSweden,SE,0.81,false,,,,,,,,,",
   "parsedData": [
@@ -438,8 +439,8 @@ export const mapConfig = writable({
   "customUnitLabel": "",
   "tooltipExtraInfoLabel": "Click here",
   "translate": {
-    "title": "Where is breast cancer screening participation highest?",
-    "subtitle": "Share of the eligible population participating in breast cancer screening, 2022 or nearest available year.",
+    "title": "Where is participation in breast cancer screening highest?",
+    "subtitle": " On average, 56 per cent of women in the European Union took up the offer of breast cancer screening. The rate was particularly high in the Nordic countries and Slovenia, where over 75 per cent of eligible women underwent screening. ",
     "textNoteDescription": "Note",
     "textNote": "",
     "textSourceDescription": "Source",

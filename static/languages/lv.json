@@ -1,13 +1,13 @@
 {
-  "title": "Kur ir visaugstākā krūts vēža skrīninga dalībnieku aktivitāte?",
-  "subtitle": "Atbilstīgo iedzīvotāju daļa, kas piedalās krūts vēža skrīningā, 2022. gadā vai tuvākajā pieejamajā gadā.",
+  "title": "Kur ir visaugstākā dalība krūts vēža skrīningā?",
+  "subtitle": "Vidēji 56 procenti sieviešu Eiropas Savienībā izmantoja krūts vēža skrīninga piedāvājumu. Šis rādītājs bija īpaši augsts Ziemeļvalstīs un Slovēnijā, kur skrīningu veica vairāk nekā 75 procenti tiesīgo sieviešu.",
   "textNoteDescription": "Piezīme",
   "textSourceDescription": "Avots",
   "textSource": "Eiropas Vēža nevienlīdzības reģistrs (2025)",
   "linkDataAccessDescription": "Piekļūstiet datiem",
+  "legend1": "Dati nav pieejami",
+  "tooltipExtraInfoLabel": "Noklikšķiniet šeit",
   "extraInfo_BG": "2019. gada aptaujas dati",
   "extraInfo_EL": "2019. gada aptaujas dati",
-  "extraInfo_RO": "2019. gada aptaujas dati",
-  "legend1": "Dati nav pieejami",
-  "tooltipExtraInfoLabel": "Noklikšķiniet šeit"
+  "extraInfo_RO": "2019. gada aptaujas dati"
 }

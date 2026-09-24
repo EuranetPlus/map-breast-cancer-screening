@@ -1,13 +1,13 @@
 {
-  "title": "Kus on rinnavähi sõeluuringute osalus kõige suurem?",
-  "subtitle": "Rinnavähi sõeluuringus osaleva abikõlbliku elanikkonna osakaal 2022. aastal või lähimal kättesaadaval aastal.",
+  "title": "Kus on rinnavähi sõeluuringutes osalemine kõige suurem?",
+  "subtitle": "Keskmiselt 56 protsenti naistest Euroopa Liidus kasutas rinnavähi sõeluuringu pakkumist. See määr oli eriti kõrge Põhjamaades ja Sloveenias, kus üle 75 protsendi abikõlblikest naistest käis sõeluuringul.",
   "textNoteDescription": "Märkus",
   "textSourceDescription": "Allikas",
   "textSource": "Euroopa vähialase ebavõrdsuse register (2025)",
   "linkDataAccessDescription": "Juurdepääs andmetele",
+  "legend1": "Andmed pole saadaval",
+  "tooltipExtraInfoLabel": "Kliki siia",
   "extraInfo_BG": "2019. aasta uuringu andmed",
   "extraInfo_EL": "2019. aasta uuringu andmed",
-  "extraInfo_RO": "2019. aasta uuringu andmed",
-  "legend1": "Andmed pole saadaval",
-  "tooltipExtraInfoLabel": "Kliki siia"
+  "extraInfo_RO": "2019. aasta uuringu andmed"
 }

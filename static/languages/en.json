@@ -1,13 +1,13 @@
 {
-  "title": "Where is breast cancer screening participation highest?",
-  "subtitle": "Share of the eligible population participating in breast cancer screening, 2022 or nearest available year.",
+  "title": "Where is participation in breast cancer screening highest?",
+  "subtitle": " On average, 56 per cent of women in the European Union took up the offer of breast cancer screening. The rate was particularly high in the Nordic countries and Slovenia, where over 75 per cent of eligible women underwent screening. ",
   "textNoteDescription": "Note",
   "textSourceDescription": "Source",
   "textSource": "European Cancer Inequalities Registry (2025)",
   "linkDataAccessDescription": "Access the data",
+  "legend1": "No data available",
+  "tooltipExtraInfoLabel": "Click here",
   "extraInfo_BG": "2019 survey data",
   "extraInfo_EL": "2019 survey data",
-  "extraInfo_RO": "2019 survey data",
-  "legend1": "No data available",
-  "tooltipExtraInfoLabel": "Click here"
+  "extraInfo_RO": "2019 survey data"
 }

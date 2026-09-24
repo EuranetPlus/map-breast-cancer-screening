@@ -1,13 +1,13 @@
 {
   "title": "¿Dónde es mayor la participación en los programas de detección precoz del cáncer de mama?",
-  "subtitle": "Porcentaje de la población elegible que participa en programas de detección precoz del cáncer de mama, 2022 o el año más cercano disponible.",
+  "subtitle": "En promedio, el 56 % de las mujeres en la Unión Europea aceptaron la oferta de realizarse una prueba de detección de cáncer de mama. La tasa fue particularmente alta en los países nórdicos y Eslovenia, donde más del 75 % de las mujeres elegibles se sometieron a la prueba.",
   "textNoteDescription": "Nota",
   "textSourceDescription": "Fuente",
   "textSource": "Registro Europeo de Desigualdades en el Cáncer (2025)",
   "linkDataAccessDescription": "Acceder a los datos",
+  "legend1": "No hay datos disponibles",
+  "tooltipExtraInfoLabel": "haga clic aquí",
   "extraInfo_BG": "Datos de la encuesta de 2019",
   "extraInfo_EL": "Datos de la encuesta de 2019",
-  "extraInfo_RO": "Datos de la encuesta de 2019",
-  "legend1": "No hay datos disponibles",
-  "tooltipExtraInfoLabel": "haga clic aquí"
+  "extraInfo_RO": "Datos de la encuesta de 2019"
 }

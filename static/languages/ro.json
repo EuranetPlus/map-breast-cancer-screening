@@ -1,13 +1,13 @@
 {
   "title": "Unde este cea mai mare participare la screeningul pentru cancerul de sân?",
-  "subtitle": "Proporția populației eligibile care participă la screening-ul pentru cancerul de sân, 2022 sau cel mai apropiat an disponibil.",
+  "subtitle": "În medie, 56% dintre femeile din Uniunea Europeană au acceptat oferta de screening pentru cancerul de sân. Rata a fost deosebit de mare în țările nordice și în Slovenia, unde peste 75% dintre femeile eligibile au fost supuse screeningului.",
   "textNoteDescription": "Nota",
   "textSourceDescription": "Sursă",
   "textSource": "Registrul European al Inegalităților în Cancer (2025)",
   "linkDataAccessDescription": "Accesați datele",
+  "legend1": "Nu sunt disponibile date",
+  "tooltipExtraInfoLabel": "Click aici",
   "extraInfo_BG": "Datele sondajului din 2019",
   "extraInfo_EL": "Datele sondajului din 2019",
-  "extraInfo_RO": "Datele sondajului din 2019",
-  "legend1": "Nu sunt disponibile date",
-  "tooltipExtraInfoLabel": "Click aici"
+  "extraInfo_RO": "Datele sondajului din 2019"
 }

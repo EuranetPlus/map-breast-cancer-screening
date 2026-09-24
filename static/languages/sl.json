@@ -1,13 +1,13 @@
 {
-  "title": "Kje je udeležba na presejalnih pregledih za raka dojk najvišja?",
-  "subtitle": "Delež upravičenega prebivalstva, ki sodeluje v presejalnih pregledih za raka dojke, 2022 ali najbližje razpoložljivo leto.",
+  "title": "Kje je udeležba pri presejalnih pregledih za raka dojk najvišja?",
+  "subtitle": "V povprečju se je ponudbe za presejalni test za raka dojk udeležilo 56 odstotkov žensk v Evropski uniji. Stopnja je bila še posebej visoka v nordijskih državah in Sloveniji, kjer se je presejalnega testa udeležilo več kot 75 odstotkov upravičenih žensk.",
   "textNoteDescription": "Opomba",
   "textSourceDescription": "Vir",
   "textSource": "Evropski register neenakosti pri raku (2025)",
   "linkDataAccessDescription": "Dostop do podatkov",
+  "legend1": "Ni na voljo podatkov",
+  "tooltipExtraInfoLabel": "Kliknite tukaj",
   "extraInfo_BG": "Podatki ankete iz leta 2019",
   "extraInfo_EL": "Podatki ankete iz leta 2019",
-  "extraInfo_RO": "Podatki ankete iz leta 2019",
-  "legend1": "Ni na voljo podatkov",
-  "tooltipExtraInfoLabel": "Kliknite tukaj"
+  "extraInfo_RO": "Podatki ankete iz leta 2019"
 }

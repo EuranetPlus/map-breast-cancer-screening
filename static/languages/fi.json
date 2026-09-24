@@ -1,13 +1,13 @@
 {
   "title": "Missä rintasyöpäseulontaan osallistuminen on yleisintä?",
-  "subtitle": "Rintasyövän seulontaan osallistuneen väestön osuus, 2022 tai lähin saatavilla oleva vuosi.",
+  "subtitle": "Keskimäärin 56 prosenttia Euroopan unionin naisista osallistui rintasyöpäseulontaan. Osallistumisprosentti oli erityisen korkea Pohjoismaissa ja Sloveniassa, joissa yli 75 prosenttia seulontaan oikeutetuista naisista kävi seulonnassa.",
   "textNoteDescription": "Huomautus",
   "textSourceDescription": "Lähde",
   "textSource": "Euroopan syöpäepätasa-arvorekisteri (2025)",
   "linkDataAccessDescription": "Käytä tietoja",
+  "legend1": "Ei tietoja saatavilla",
+  "tooltipExtraInfoLabel": "Klikkaa tästä",
   "extraInfo_BG": "Vuoden 2019 kyselytiedot",
   "extraInfo_EL": "Vuoden 2019 kyselytiedot",
-  "extraInfo_RO": "Vuoden 2019 kyselytiedot",
-  "legend1": "Ei tietoja saatavilla",
-  "tooltipExtraInfoLabel": "Klikkaa tästä"
+  "extraInfo_RO": "Vuoden 2019 kyselytiedot"
 }

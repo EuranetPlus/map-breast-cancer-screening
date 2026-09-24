@@ -1,13 +1,13 @@
 {
   "title": "Waar is de deelname aan borstkankerscreening het hoogst?",
-  "subtitle": "Aandeel van de in aanmerking komende bevolking dat deelneemt aan borstkankerscreening, 2022 of het dichtstbijzijnde beschikbare jaar.",
+  "subtitle": "Gemiddeld maakte 56 procent van de vrouwen in de Europese Unie gebruik van het aanbod voor borstkankerscreening. Het percentage was bijzonder hoog in de Scandinavische landen en Slovenië, waar meer dan 75 procent van de in aanmerking komende vrouwen zich liet screenen.",
   "textNoteDescription": "Opmerking",
   "textSourceDescription": "Bron",
   "textSource": "Europees register voor kankerongelijkheden (2025)",
   "linkDataAccessDescription": "Toegang tot de gegevens",
+  "legend1": "Geen gegevens beschikbaar",
+  "tooltipExtraInfoLabel": "Klik hier",
   "extraInfo_BG": "Enquêtegegevens uit 2019",
   "extraInfo_EL": "Enquêtegegevens uit 2019",
-  "extraInfo_RO": "Enquêtegegevens uit 2019",
-  "legend1": "Geen gegevens beschikbaar",
-  "tooltipExtraInfoLabel": "Klik hier"
+  "extraInfo_RO": "Enquêtegegevens uit 2019"
 }

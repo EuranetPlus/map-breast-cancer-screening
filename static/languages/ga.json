@@ -1,13 +1,13 @@
 {
-  "title": "Cá bhfuil an rannpháirtíocht is airde i scagthástáil ailse chíche?",
-  "subtitle": "Sciar den daonra incháilithe a ghlac páirt i scagthástáil ailse chíche, 2022 nó an bhliain is gaire atá ar fáil.",
+  "title": "Cá bhfuil an rannpháirtíocht i scagthástáil ailse chíche is airde?",
+  "subtitle": "Ar an meán, ghlac 56 faoin gcéad de mhná san Aontas Eorpach leis an tairiscint scagthástála ailse chíche. Bhí an ráta an-ard sna tíortha Nordacha agus sa tSlóivéin, áit ar ghlac breis is 75 faoin gcéad de mhná incháilithe páirt i scagthástáil.",
   "textNoteDescription": "Nóta",
   "textSourceDescription": "Foinse",
   "textSource": "Clárlann Eorpach um Éagothroime Ailse (2025)",
   "linkDataAccessDescription": "Rochtain ar na sonraí",
+  "legend1": "Níl aon sonraí ar fáil",
+  "tooltipExtraInfoLabel": "Cliceáil anseo",
   "extraInfo_BG": "Sonraí suirbhé 2019",
   "extraInfo_EL": "Sonraí suirbhé 2019",
-  "extraInfo_RO": "Sonraí suirbhé 2019",
-  "legend1": "Níl aon sonraí ar fáil",
-  "tooltipExtraInfoLabel": "Cliceáil anseo"
+  "extraInfo_RO": "Sonraí suirbhé 2019"
 }

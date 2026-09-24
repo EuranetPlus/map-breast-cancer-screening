@@ -1,13 +1,13 @@
 {
   "title": "Où le taux de participation au dépistage du cancer du sein est-il le plus élevé ?",
-  "subtitle": "Part de la population admissible participant au dépistage du cancer du sein, 2022 ou année disponible la plus proche.",
+  "subtitle": "En moyenne, 56 % des femmes de l'Union européenne ont accepté le dépistage du cancer du sein. Ce taux était particulièrement élevé dans les pays nordiques et en Slovénie, où plus de 75 % des femmes éligibles ont été dépistées.",
   "textNoteDescription": "Note",
   "textSourceDescription": "Source",
   "textSource": "Registre européen des inégalités face au cancer (2025)",
   "linkDataAccessDescription": "Accéder aux données",
+  "legend1": "Aucune donnée disponible",
+  "tooltipExtraInfoLabel": "Cliquez ici",
   "extraInfo_BG": "données d'enquête de 2019",
   "extraInfo_EL": "données d'enquête de 2019",
-  "extraInfo_RO": "données d'enquête de 2019",
-  "legend1": "Aucune donnée disponible",
-  "tooltipExtraInfoLabel": "Cliquez ici"
+  "extraInfo_RO": "données d'enquête de 2019"
 }

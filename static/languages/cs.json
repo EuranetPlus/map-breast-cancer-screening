@@ -1,13 +1,13 @@
 {
   "title": "Kde je účast na screeningu rakoviny prsu nejvyšší?",
-  "subtitle": "Podíl oprávněné populace účastnící se screeningu rakoviny prsu, 2022 nebo nejbližší dostupný rok.",
+  "subtitle": "V průměru 56 procent žen v Evropské unii využilo nabídky screeningu rakoviny prsu. Toto číslo bylo obzvláště vysoké v severských zemích a Slovinsku, kde screening podstoupilo více než 75 procent způsobilých žen.",
   "textNoteDescription": "Poznámka",
   "textSourceDescription": "Zdroj",
   "textSource": "Evropský registr nerovností v oblasti rakoviny (2025)",
   "linkDataAccessDescription": "Přístup k datům",
+  "legend1": "Nejsou k dispozici žádná data",
+  "tooltipExtraInfoLabel": "Klikněte zde",
   "extraInfo_BG": "Data z průzkumu z roku 2019",
   "extraInfo_EL": "Data z průzkumu z roku 2019",
-  "extraInfo_RO": "Data z průzkumu z roku 2019",
-  "legend1": "Nejsou k dispozici žádná data",
-  "tooltipExtraInfoLabel": "Klikněte zde"
+  "extraInfo_RO": "Data z průzkumu z roku 2019"
 }

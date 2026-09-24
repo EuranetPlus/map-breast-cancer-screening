@@ -1,13 +1,13 @@
 {
   "title": "Wo ist die Teilnahme an Brustkrebs-Screenings am höchsten?",
-  "subtitle": "Anteil der berechtigten Bevölkerung, der am Brustkrebs-Screening teilnimmt, 2022 oder nächstmögliches Jahr.",
+  "subtitle": "Im Durchschnitt nahmen 56 Prozent der Frauen in der Europäischen Union das Angebot zur Brustkrebsvorsorge in Anspruch. Besonders hoch war die Quote in den nordischen Ländern und Slowenien, wo über 75 Prozent der berechtigten Frauen an der Vorsorgeuntersuchung teilnahmen.",
   "textNoteDescription": "Notiz",
   "textSourceDescription": "Quelle",
   "textSource": "Europäisches Krebsungleichheitsregister (2025)",
   "linkDataAccessDescription": "Greifen Sie auf die Daten zu.",
+  "legend1": "Keine Daten verfügbar",
+  "tooltipExtraInfoLabel": "klicken Sie hier",
   "extraInfo_BG": "Umfragedaten von 2019",
   "extraInfo_EL": "Umfragedaten von 2019",
-  "extraInfo_RO": "Umfragedaten von 2019",
-  "legend1": "Keine Daten verfügbar",
-  "tooltipExtraInfoLabel": "klicken Sie hier"
+  "extraInfo_RO": "Umfragedaten von 2019"
 }

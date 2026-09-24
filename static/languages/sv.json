@@ -1,13 +1,13 @@
 {
   "title": "Var är deltagandet i bröstcancerscreening högst?",
-  "subtitle": "Andel av den berättigade befolkningen som deltar i bröstcancerscreening, 2022 eller närmaste tillgängliga år.",
+  "subtitle": "I genomsnitt tog 56 procent av kvinnorna i Europeiska unionen emot erbjudandet om bröstcancerscreening. Andelen var särskilt hög i de nordiska länderna och Slovenien, där över 75 procent av de berättigade kvinnorna genomgick screening.",
   "textNoteDescription": "Notera",
   "textSourceDescription": "Källa",
   "textSource": "Europeiska registret över ojämlikheter i cancer (2025)",
   "linkDataAccessDescription": "Åtkomst till data",
+  "legend1": "Inga data tillgängliga",
+  "tooltipExtraInfoLabel": "Klicka här",
   "extraInfo_BG": "Undersökningsdata från 2019",
   "extraInfo_EL": "Undersökningsdata från 2019",
-  "extraInfo_RO": "Undersökningsdata från 2019",
-  "legend1": "Inga data tillgängliga",
-  "tooltipExtraInfoLabel": "Klicka här"
+  "extraInfo_RO": "Undersökningsdata från 2019"
 }
